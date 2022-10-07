@@ -12,7 +12,7 @@ $$x_1 + x_3 + x_4 + x_7 = y$$
 
 $$ y >= 0$$
 
-x_i{1..7} integer >= 1, <= 7;
+$$1 \le x_i \ge 7 \in Z \ \ \forall i \in 1..7$$
 $$d_{i,j} = (0,1) \ \ \forall i,j \in 1..7$$
 
 
