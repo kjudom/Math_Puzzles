@@ -14,7 +14,7 @@
 
 
 ---
-**These is just for testing equations**
+**These are just for testing equations**
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
