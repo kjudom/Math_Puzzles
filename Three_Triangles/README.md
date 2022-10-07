@@ -3,14 +3,19 @@
 
 ![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Three_Triangles/3tri.png)
 
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
+
 
 ## Mathematical model
 $$\mbox{Maximize  } y$$
 Subject to
+
+<img src="https://render.githubusercontent.com/render/math?math= x_1 + x_3 + x_4 + x_7 = y\\
+x_1 + x_3 + x_4 + x_7 = y\\">
+
+
 $$x_1 + x_3 + x_4 + x_7 = y$$
 
-display(Math(r'F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx'))
+
 
 $$ y >= 0$$
 
