@@ -9,8 +9,7 @@
 $$\mbox{Maximize  } y$$
 Subject to
 
-<img src="https://render.githubusercontent.com/render/math?math=x_1 + x_3 + x_4 + x_7 = y\\
-x_1 + x_3 + x_4 + x_7 = y\\">
+<img src="https://render.githubusercontent.com/render/math?math=x_1 + x_3 + x_4 + x_7 = y\\x_1 + x_3 + x_4 + x_7 = y">
 
 
 $$x_1 + x_3 + x_4 + x_7 = y$$
