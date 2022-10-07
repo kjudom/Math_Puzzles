@@ -27,6 +27,8 @@ $$\sum_{i=1}^7 d_{i,j} = 1 \ \ \ \forall j \in 1..7$$
 
 $$1 \le x_i \le 7  \ \ \forall i \in 1..7$$
 
+Decision variables
+
 $$ y >= 0$$
 
 $$x_i \in Z \ \ \forall i \in 1..7$$
