@@ -13,7 +13,7 @@ $$x_1 + x_3 + x_4 + x_7 = y$$
 $$ y >= 0$$
 
 x_i{1..7} integer >= 1, <= 7;
-$$d_{i,j} = \left{0,1\right} \ \ \forall i,j \in 1..7$$
+$$d_{i,j} = (0,1) \ \ \forall i,j \in 1..7$$
 
 
 subject to A1: x[1] + x[3] + x[4] + x[7] = y;
