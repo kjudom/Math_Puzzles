@@ -1,13 +1,13 @@
 # The five circles puzzle
  Put numbers 1-9 in each area so that the sum's are equal in each circle.
 
-![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Five_Circles/3circles.png)
+![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Five_Circles/5circles.png)
 
 
 
 ## Mathematical model
 
-![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Five_Circles/3circles2.png)
+![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Five_Circles/5circles2.png)
 
 $$\mbox{Maximize/Minimize  } 0$$
 Subject to
