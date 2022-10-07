@@ -11,7 +11,13 @@
 <!-- [Text](link) -->
 [Read more](https://github.com/kjudom/Math_Puzzles/tree/main/Three_Triangles)
 
+## The five circles puzzle
+ Put numbers 1-9 in each area so that the sum's are equal in each circle.
 
+![alt text](https://github.com/kjudom/Math_Puzzles/blob/main/Five_Circles/5circles.png)
+
+<!-- [Text](link) -->
+[Read more](https://github.com/kjudom/Math_Puzzles/tree/main/Five_Circles)
 
 ---
 **These are just for testing equations**
