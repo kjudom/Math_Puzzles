@@ -6,10 +6,12 @@
 
 ## Mathematical model
 $$\mbox{Maximize  } y$$
-$$\mbox{Subject to} x_1 + x_3 + x_4 + x_7 = y$$
+Subject to
+$$x_1 + x_3 + x_4 + x_7 = y$$
 
 
 $$ y >= 0$$
+
 x_i{1..7} integer >= 1, <= 7;
 $$d{i,j} = binary \forall i,j \in 1..7$$
 
