@@ -6,7 +6,6 @@
 
 
 ## Mathematical model
-The mathematical model is not displayed correctly!
 
 $$\mbox{Maximize  } y$$
 Subject to
