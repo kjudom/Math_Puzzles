@@ -21,7 +21,7 @@ $$x_2 + x_3 + x_4 + x_6 = y$$
 
 $$\sum_{i=1}^7 x_i = \sum_{i=1}^7 i$$
 
-$$\sum_{j=1}^7 d_{i,j} * j = x_i \ \ \ \forall i \in 1..7$$
+$$\sum_{j=1}^7 d_{i,j} \times j = x_i \ \ \ \forall i \in 1..7$$
 
 $$\sum_{i=1}^7 d_{i,j} = 1 \ \ \ \forall j \in 1..7$$
 
