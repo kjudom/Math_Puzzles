@@ -6,11 +6,10 @@
 
 
 ## Mathematical model
+The mathematical model is not displayed correctly!
+
 $$\mbox{Maximize  } y$$
 Subject to
-
-<img src="https://render.githubusercontent.com/render/math?math=x_1 + x_3 + x_4 + x_7 = y\\x_1 + x_3 + x_4 + x_7 = y">
-
 
 $$x_1 + x_3 + x_4 + x_7 = y$$
 $$x_1 + x_2 + x_4 + x_5 = y$$
@@ -35,6 +34,6 @@ subject to A1: x[1] + x[3] + x[4] + x[7] = y;
 subject to A2: x[1] + x[2] + x[4] + x[5] = y;
 subject to A3: x[2] + x[3] + x[4] + x[6] = y;
 subject to A4: x[1] + x[2] + x[3] + x[4] + x[5] + x[6] + x[7] = 28;
-subject to A8 {i in 1..7}: sum{j in 1..7} d[i,j] * j = x[i]; 
-subject to A9 {j in 1..7}: sum{i in 1..7} d[i,j] = 1; 
+subject to A5 {i in 1..7}: sum{j in 1..7} d[i,j] * j = x[i]; 
+subject to A6 {j in 1..7}: sum{i in 1..7} d[i,j] = 1; 
 ```
