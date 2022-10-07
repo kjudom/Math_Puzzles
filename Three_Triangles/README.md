@@ -21,11 +21,17 @@ $$x_2 + x_3 + x_4 + x_6 = y$$
 
 $$\sum_{i=1}^7 x_i = \sum_{i=1}^7 i$$
 
+$$\sum_{j=1}^7 d_{i,j} * j = x_i \ \ \ \forall i \in 1..7$$
+
+$$\sum_{i=1}^7 d_{i,j} = 1 \ \ \ \forall j \in 1..7$$
+
+$$1 \le x_i \le 7  \ \ \forall i \in 1..7$$
+
 $$ y >= 0$$
 
-$$1 \le x_i \le 7 \in Z \ \ \forall i \in 1..7$$
+$$x_i \in Z \ \ \forall i \in 1..7$$
 
-$$d_{i,j} = (0,1) \ \ \forall i,j \in 1..7$$
+$$d_{i,j} \in (0,1) \ \ \forall i,j \in 1..7$$
 
 
 ## AMPL model
