@@ -9,6 +9,7 @@ $$\mbox{Maximize  } y$$
 Subject to
 $$x_1 + x_3 + x_4 + x_7 = y$$
 
+display(Math(r'F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx'))
 
 $$ y >= 0$$
 
@@ -16,3 +17,9 @@ $$1 \le x_i \le 7 \in Z \ \ \forall i \in 1..7$$
 $$d_{i,j} = (0,1) \ \ \forall i,j \in 1..7$$
 
 
+subject to A1: x[1] + x[3] + x[4] + x[7] = y;
+subject to A2: x[1] + x[2] + x[4] + x[5] = y;
+subject to A3: x[2] + x[3] + x[4] + x[6] = y;
+subject to A4: x[1] + x[2] + x[3] + x[4] + x[5] + x[6] + x[7] = 28;
+subject to A8 {i in 1..7}: sum{j in 1..7} d[i,j] * j = x[i]; 
+subject to A9 {j in 1..7}: sum{i in 1..7} d[i,j] = 1; 
